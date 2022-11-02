@@ -1,1 +1,1 @@
-# LoggingCorrelationAngulatrNet6
+# LoggingCorrelationAngularNet6
